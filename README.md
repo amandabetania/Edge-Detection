@@ -1,2 +1,4 @@
 # QUIZ-PCD
-Amanda Betania Maritza_F55122032
+Nama : Amanda Betania Maritza
+NIM  : F55122032
+Kelas: A
